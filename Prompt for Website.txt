@@ -1,0 +1,42 @@
+Prompt 1
+
+I want to design a website using HTML, CSS and JavaScript tools.
+Can you help me ? Answer yes or no.
+
+Prompt 2
+
+I want to design a nice website where I can share movie recommendations.
+As a first step, I would like to make 8 movie suggestions.
+I would like to add titles, descriptions and images for these 8 movies.
+These images should be displayed in 4 rows and 2 columns.
+Additionally, there should be a logo in the header section of the web page.
+
+Prompt 3
+
+Great! Below is a basic example of HTML, CSS, and JavaScript code to create the website layout you described. This example assumes you have 8 movies with titles, descriptions, and image URLs.
+
+Prompt 4
+
+Good, now edit the size of the movie images to 300*300.
+Make sure that the images are displayed in 4 rows and 2 columns.
+
+Prompt 5
+
+Good, now let's add a transition effect when hovering over the images.
+
+Prompt 6
+
+Great, now let's add the title "The world's best movie recommendations" to the top of the page.
+
+Prompt 7
+
+That's okay too. Now let's add a navigation menu to our website with the headings Homepage, About Us, Contact.
+
+Prompt 8
+
+Good, now add a black background to the background of the movie titles and change the text style color to white.
+Also arrange the logo right side aligned.
+
+Prompt 9
+
+It's going great, now let's add "Copyright © 2024 Movie Recommendations" to the bottom of the website.
